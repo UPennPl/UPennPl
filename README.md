@@ -1,5 +1,4 @@
-
-<!--
+```md
          ___    ____  _   _______________  _   __
         /   |  / __ \/ | / / ____/ ____/ | / /
        / /| | / / / /  |/ / /   / __/ /  |/ /
@@ -11,7 +10,7 @@
 
    "Innovation distinguishes between a leader and a follower."
                                                   – Steve Jobs
--->
+```
 
 # <img src="https://img.icons8.com/doodle/48/000000/rocket.png" width="35" /> **UPENN Research Publications** 
 
@@ -131,4 +130,3 @@ This repository is licensed under the [MIT License](./LICENSE). By contributing,
 > “**Research that isn’t shared is research that didn’t happen.**”  
 
 Keep innovating, keep publishing, keep pushing the boundaries.  
-**_Stay badass!_**
